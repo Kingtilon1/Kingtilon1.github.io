@@ -37,12 +37,10 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        As a Software Engineer with a expereince in Data Science, I blend technical expertise in Python, Next.js, javascript, and SQL with a strong 
+        background in machine learning to enhance system efficiencies and user engagement. My hands-on experience, from optimizing ezCater's 
+        digital platforms to leading AI improvements at Remotasks, showcases my ability to drive impactful tech solutions. Committed to 
+        lifelong learning, I actively contribute to tech communities through Hack.Diversity and CodePath.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
