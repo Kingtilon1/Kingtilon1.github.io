@@ -1,9 +1,9 @@
 {
   "name": "Tilon",
+  "homepage": ".",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Kingtilon1.github.io/Kingtilon1.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
